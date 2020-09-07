@@ -45,3 +45,12 @@ print(mystring[::-1])
 #start is a numerical index for the slice start
 #stop is the index you will go up to(but not include)
 #step is the size of the jump you take
+
+
+
+def animal_crackers(text):
+    wordlist = text.split()
+    return wordlist[0][0] == wordlist[1][0]
+
+print(animal_crackers('Levelheaded Llama'))
+print(animal_crackers('Crazy Kangaroo'))

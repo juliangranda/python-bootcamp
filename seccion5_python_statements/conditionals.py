@@ -8,3 +8,5 @@ elif loc == "store":
     print("welcome to the store")
 else:
     print("i do not know much")
+
+
