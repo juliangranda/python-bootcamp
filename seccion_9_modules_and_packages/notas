@@ -1,0 +1,8 @@
+para crear los paquetes es importante
+
+1)crear un carpeta del paquete principal
+2)dentro de la carpeta principal crear una carpeta del paquete secundario
+3)en ambas carpetas se debe de crear el archivo: __init__.py con el fin de decirle a python que es un paquete
+4)el archivo __init__.py no se debe de escribir ningun codigo esto solo es para que diga que son paquetes
+5)en ambas carpetas creamos los archivos .py necesarios para nuestro programa
+6)desde el main.py o archivo principal importamos los paquetes necesarios para usar sus funciones necesarias
