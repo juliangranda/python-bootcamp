@@ -2,6 +2,7 @@
 
 #idea basica nos permite generar una secuencia de valores a lo largo del tiempo en lugar de tener que crear un secuencia y mantenerla en la memoria
 
+#palabra clave importante en esta clase es "yield"
 
 def create_cubes(n):
     result = []
